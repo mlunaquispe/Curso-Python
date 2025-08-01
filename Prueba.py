@@ -6,3 +6,4 @@ else:
     print("Eres menor de edad")
     for i in range(1, edad):
         print(i)
+print("Nueva Linea")

@@ -21,5 +21,6 @@ def main():
     calificaciones = pedir_calificaciones()
     promedio = calcular_promedio(calificaciones)
     mostrar_resultado(promedio)
+    print("Nueva Linea")
 if __name__ == "__main__":
     main()

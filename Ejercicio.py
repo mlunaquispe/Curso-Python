@@ -11,5 +11,5 @@ def evaluar_numero(numero):
 def main():
     entrada = int(input("Ingrese el número a evaluar: "))
     evaluar_numero(entrada)
-
-main()
+    print("Nueva Linea")
+    main()
